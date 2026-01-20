@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/andrei-z/je-t#readme",
   "dependencies": {
-    "cypress": "^9.5.0"
+    "cypress": "^15.9.0"
   },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^2.3.0"
